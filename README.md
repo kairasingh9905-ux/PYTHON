@@ -8,7 +8,7 @@ This repository will contain my Python basics to advanced concepts, along with i
 - Basics
 - Intermediate concepts
 - Advanced topics
-- Standard library examples
+- Standard library(numpy, matplotlib,pandas)
 
 ## Progress
 Work in progress — updated as I learn.
